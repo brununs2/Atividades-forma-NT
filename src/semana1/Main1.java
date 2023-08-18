@@ -6,7 +6,7 @@ import semana1.exercicio3.Palindromo;
 import semana1.exercicio5.NumeroMatriz;
 import semana1.exercício6.CustoPagamento;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
 
         //Exercício 1
@@ -28,8 +28,5 @@ public class Main {
         //Exercício 6
         CustoPagamento custoPagamento = new CustoPagamento();
         custoPagamento.imprimircp();
-
-
-
     }
 }
